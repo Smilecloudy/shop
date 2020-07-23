@@ -150,7 +150,7 @@ alter table 表名 drop column 字段名;
 
 `ALTER TABLE t_student DROP COLUMN class;`
 
-
+我试着测试一下git
 
 
 
